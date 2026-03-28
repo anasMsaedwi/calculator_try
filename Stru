@@ -1,0 +1,7 @@
+simple-calculator/
+│
+├── main.py
+├── calculator.py
+├── README.md
+└── .gitignore
+
